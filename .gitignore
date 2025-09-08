@@ -1,0 +1,15 @@
+# Gradle build directory (ephemeral)
+build/
+
+# macOS Finder
+.DS_Store
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Python venv (if created locally)
+venv/
+
+# Keep build-output tracked for distributables
+# (do not ignore build-output)
